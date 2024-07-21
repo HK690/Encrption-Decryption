@@ -9,10 +9,10 @@ Steps:
 
 2. Download the cryptography package with pip.
 
-      pip download cryptography
+      ```{python}pip download cryptography```
 
 3. Then Install the package with:
 
-   pip install cryptography
+   ```{python}pip install cryptography```
 
 4. Run the program.

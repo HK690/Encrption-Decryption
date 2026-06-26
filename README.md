@@ -42,7 +42,7 @@ Encryption-Decryption/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Encryption-Decryption.git
+git clone https://github.com/HK690/Encryption-Decryption.git
 cd Encryption-Decryption
 ```
 
